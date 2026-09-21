@@ -12,4 +12,10 @@ wheels/
 # Environment variables
 .env
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated databases
+*.db
+
 .atl
